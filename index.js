@@ -10,3 +10,9 @@ alert(city);
 alert(country);
 alert(occupation)
 alert(age)
+let cert = "certified Mobile App Developer";
+alert(cert);
+let email = "khalid@mail.com";
+alert(email);
+let message =  "pizza\npizz\npiz\npi\np"
+alert(message);
